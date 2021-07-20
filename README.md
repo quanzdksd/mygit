@@ -21,5 +21,40 @@
  
 本项目为中国农业大学2019-2020年夏季学期web技术及数据采集与处理实训课程大作业。本项目以<a href="https://you.ctrip.com/">携程旅游景点网站</a>景点数据为爬取目标，抓取景点相关数据，最后通过网页的形式展示爬取结果。
 
- ## 
-  
+ ## 项目进度
+ 
+ ### 第一阶段：抓取数据
+ 
+ #### 抓取携程网站上北京的所有景点数据
+ 
+ 完成时间：2021年7月16日
+ 
+ ### 第二阶段：数据处理
+ 
+ #### 内容：统计词频+词云+柱状图(2维)+饼图+漏斗图
+ 
+ 完成时间：2021年7月19日
+ 
+ ### 第三阶段：网站实现
+ 
+ #### 内容：可视化结果展示
+ 
+ 完成时间：2021年7月20日
+ 
+ ### 第四阶段：视频拍摄（未完成）
+ 
+ ## 文件目录（完善中）
+ 
+ ## 项目成员
+ 
+ <a href="https://github.com/Terrensou">@Terrensou (尹权智)</a>
+ 
+ <a href="https://github.com/Terrensou">@Terrensou (时明辉)</a>
+ 
+ <a href="https://github.com/Terrensou">@Terrensou (朱子玉)</a>
+ 
+ <a href="https://github.com/Terrensou">@Terrensou (李昊斐)</a>
+ 
+## 使用许可
+
+[ASF](LICENSE) © 2021
